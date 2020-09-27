@@ -40,9 +40,9 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              tjrtkddnaos@naver.com
 #twitter:            username
-facebook:           profile.php?id=100003862876391 
+#facebook:           profile.php?id=100003862876391 
+email:              tjrtkddnaos@naver.com
 github-url:         sangwoo24
 instagram:          _ssw24
 tistory:            tjrtkddnaos
@@ -54,7 +54,7 @@ tistory:            tjrtkddnaos
 #steam:              username
 #dribbble:          username
 #youtube:           username
-youtube-channel:    UCG-GfxBVmMc_Gnl5uPqpZ1Q?view_as=subscriber
+#youtube-channel:    UCG-GfxBVmMc_Gnl5uPqpZ1Q?view_as=subscriber
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
