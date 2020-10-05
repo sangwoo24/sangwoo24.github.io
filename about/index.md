@@ -13,6 +13,7 @@ comments: false
 
 # __📝 이력사항__
 <br><br>
+<center>
 
 #### - __Name__ :  석상우 [Seok Sang Woo]
 <br>
@@ -34,7 +35,7 @@ comments: false
 
 ###  - __희망직무__ : <span style ="color : green "> iOS App 개발 <span>
 
-
+</center>
 <br><br>
 
 # __🎓 학력사항__
@@ -102,6 +103,7 @@ comments: false
 </div>
 
 <br><br>
+
 
 # __📇 자격내역__
 <br><br>
