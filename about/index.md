@@ -58,7 +58,7 @@ comments: false
 
 
   <div class="row">
-    <div class="col-xs-2">C</div>
+    <div class="col-xs-2"><font size = "5em">C</font></div>
     <div class="col-xs-5">
       <div class="progress">
         <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
@@ -68,7 +68,7 @@ comments: false
     </div>
   </div>
   <div class="row">
-    <div class="col-xs-2">Java</div>
+    <div class="col-xs-2"><font size = "5em">Java</font></div>
     <div class="col-xs-5">
       <div class="progress">
         <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
@@ -79,7 +79,7 @@ comments: false
   </div>
   <div class="row">
     <div class="col-xd-3">
-      <div class="col-xs-2">Swift</div>
+      <div class="col-xs-2"><font size = "5em">Swift</font></div>
       <div class="col-xs-5">
         <div class="progress">
           <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">
@@ -91,7 +91,7 @@ comments: false
   </div>
   <div class="row">
     <div class="col-xd-3">
-      <div class="col-xs-2">Python</div>
+      <div class="col-xs-2"><font size = "5em">Python</font></div>
       <div class="col-xs-5">
         <div class="progress">
           <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
