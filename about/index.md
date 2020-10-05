@@ -6,11 +6,15 @@ date: 2016-03-21
 comments: false
 ---
 
-<center><font size = "6em" color ="rgb()"><b>5천만이 사용할 수 있는 App 개발자가 되기</b></font></center>
+<center><font size = "6em" color ="rgb()"><b>
+5천만이 사용할 수 있는 App 개발자가 되기
+</b></font></center>
 <br><br><br><br>
 
 # __📝 이력사항__
+
 <center>
+
 
 #### - __Name__ :  석상우 [Seok Sang Woo]
 #### - __Birth__ : 1995.12.05
@@ -21,8 +25,12 @@ comments: false
 
 ###  - __희망직무__ : <span style ="color : green "> iOS App 개발 <span>
 </center>
+
+
 <br><br>
+
 # __🎓 학력사항__
+
 
 | 학교이름(지역) | 전공 | 학점 | 기간 | 비고 |
 |:----------:|:----------:|:----------:|:---------:|:-------:|
@@ -31,6 +39,7 @@ comments: false
 
 
 <br><br>
+
 ## 🖥 Programming Skill
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -82,12 +91,14 @@ comments: false
 
 
 <br><br>
+
 # __📇 자격내역__
 
 #### - __1종 보통 운전면허증__
 #### - __정보처리기사__
 
 <br><br>
+
 # __🏖 취미 / 특기__
 
 ### 취미
