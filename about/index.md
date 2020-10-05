@@ -13,18 +13,13 @@ comments: false
 
 # __📝 이력사항__
 
-<center>
-
-
 #### - __Name__ :  석상우 [Seok Sang Woo]
 #### - __Birth__ : 1995.12.05
 #### - __Phone__ : 010 - 5696 - 2353
 #### - __Address__ : 경기도 광주시 곤지암읍 삼리 
 #### - __Email__ : tjrtkddnaos@naver.com
 #### - __Git__ : https://github.com/sangwoo24
-
 ###  - __희망직무__ : <span style ="color : green "> iOS App 개발 <span>
-</center>
 
 
 <br><br>
