@@ -173,7 +173,7 @@
   }
 
   to {
-    opacity: 1;
+    opacity: 0;
   }
 }
 
@@ -183,13 +183,13 @@
   }
 
   to {
-    opacity: 1;
+    opacity: 0;
   }
 }
 
 .fadeOut {
-  -webkit-animation-name: fadeIn;
-  animation-name: fadeIn;
+  -webkit-animation-name: fadeOut;
+  animation-name: fadeOut;
 }
 
 @-webkit-keyframes rotateIn {
