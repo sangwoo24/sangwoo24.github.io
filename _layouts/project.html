@@ -27,16 +27,17 @@ layout: compress
                 <div class="post-list">
                     {% for post in site.posts %} 
                         {% if post.project == null %}
-                        
-                        <p class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <p><b>가계부 프로그램</b></p>
+                    <ul>
+                        <p><b>가계부 프로그램</b></p>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <img src="https://user-images.githubusercontent.com/56511253/95610247-f7965d00-0a9a-11eb-8b90-41aad442b295.png" align = "left" vspace = "10" hspace = "30" style="width: 200px; height:200px;"/>
                             <p>안녕안녕하세요</p>
                             <p>이건 ~~프로젝트입니당
                                 <br> 냥냥펀치tq
                             </p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Learn More</a>
-                        </p>
+                        </li>
+                    </ul>
                 </div>
                 <div class="post-list">
                     <ul>
