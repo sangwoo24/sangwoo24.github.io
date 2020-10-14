@@ -268,7 +268,7 @@ layout: compress
                             <h2><b>OS</b></h2>
                                 - Rasbian, Ubuntu 14.04    
                                 <div style="clear:both;"></div>
-                                <img src="https://user-images.githubusercontent.com/56511253/95929038-e41e2580-0dfd-11eb-94e5-41a9f3e4bd33.jpeg" style="width: 550px; height:250px; float: left; margin-right: 20px; ">
+                                <img src="https://user-images.githubusercontent.com/56511253/95929038-e41e2580-0dfd-11eb-94e5-41a9f3e4bd33.jpeg" style="width: 550px; height:250px; float: left; margin-right: 20px; margin-top: 20px; ">
                             <h2><b>내용 및 기능</b></h2>
                                 - 전자공학과(3명), 임베디드 시스템 공학과(2명)의 5인으로 구성.<br><br>
                                 - 예선 주행 과제를 수행한 후 영상과 개발 계획서 및 코드를 제출하는 형식.<br><br>
@@ -295,16 +295,42 @@ layout: compress
                             <h2><b>OS</b></h2>
                                 - Rasbian, Ubuntu 14.04    
                                 <div style="clear:both;"></div>
-                                <img src="https://user-images.githubusercontent.com/56511253/95931597-8f31dd80-0e04-11eb-9ff7-d85427e565f9.jpeg" style="width: 550px; height:250px; float: left; margin-right: 20px; ">
+                                <img src="https://user-images.githubusercontent.com/56511253/95931597-8f31dd80-0e04-11eb-9ff7-d85427e565f9.jpeg" style="width: 550px; height:250px; float: left; margin-right: 20px; margin-top: 20px; ">
                             <h2><b>내용 및 기능</b></h2>
                                 - 전자공학과(3명), 임베디드 시스템 공학과(2명)의 5인으로 구성.<br><br>
                                 - 예선은 주어진 영상에 대해 ROS프로그래밍을 하여 시뮬레이터로 구현.<br><br>
                                 - 본선은 직접 Xycar에 ROS프로그래밍을 하여 3바퀴 일반트랙, 1바퀴 장애물 트랙을 빠른 시간안에 완주하는 것.<br><br>
-                                - 코드를 무작위로 배포할 시 저작권에 문제가 생길 수 있어 Git에 Repository는 Private으로 되어있음.<br><br>
+                                - 코드를 무작위로 배포할 시 저작권에 문제가 생길 수 있어 Git에 Repository는 Private으로 되어있음.<br><br><br><br><br><br>
                         </li>
                     </ul>
-                    {% endif %}
-                {% endfor %}
+                </div><br><br><br><br>
+
+                <div class="post-list">
+                    <ul>
+                        <h2 style = "color:forestgreen" ><p><b>🚗 Graduation Project [HandTalker]</b></p></h2>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <img src="https://user-images.githubusercontent.com/56511253/95933840-72000d80-0e0a-11eb-9ce0-84246f17ff00.jpeg" style="width: 250px; height:300px; float: left ;margin-right: 50px;">
+                            <img src="https://user-images.githubusercontent.com/56511253/95933842-7298a400-0e0a-11eb-93f8-22fb6c812efd.png" style="width: 500px; height:300px; float: left; margin-right: 20px; ">
+                            <div style="clear:both;"></div>
+                            <h2><b>개발 환경</b></h2>
+                            - C, Python, Java, Arduino
+                            <h2><b>사용 통신 규격</b></h2>
+                            - Socket Communication, Bluetooth, Serial Communication
+                            <h2><b>내용 및 기능</b></h2>
+                                - 전자공학부 졸업 작품으로 장갑을 착용하고 수화를 하면 수화의 음성을 추출해주는 작품을 개발.<br>
+                                - Bluetooth 통신이 가능한 Jarduino와 Android 사이에서 Data교환이 이루어짐.<br>
+                                - 오른손은[Ebimu : 6, Flex : 6, Capacitor : 2]의 14개의 센서가 들어가고, 왼손에 경우에는[Ebimu : 6, Flex : 5]의 11개의 센서가 들어간다.<br>
+                                - Android는 Arduino로 부터 Data를 받고, 가속도 기반 에너지를 추출하여 수화의 동작 구간을 판별.<br>
+                                - 에너지 전위가 임계치를 넘으면 동작으로 인식하고, 지화는 저장된 Data와 손의 끝점을 비교해 추출한다.<br>
+                                - 수화에 경우에는, 손목, 접촉센서, 끝점에 따라 reject를 한 후 DTW(Dynamic Time Wraping) 알고리즘을 이용해 구간에 대한 Data를 비교한 후 가장 유사한 패턴의 수화를 출력한다.<br>
+                                - 오른손의 에너지만 올라간 경우에는 지화 및 한손수화로 인식하고, 왼손의 에너지가 먼저 올라가거나 양손의 에너지가 임계치를 넘으면 수화 동작으로 인식한다.<br><br><br>
+
+                                🔥 자세한 사항과 동작 영상은 유튜브 링크를 참조해주시면 감사하겠습니다.
+                            <a href="https://github.com/sangwoo24/Main-Project-in-KPU/tree/master/Parking%20System%20Project" class="btn btn-danger" target="_blank" style = "float:right">Youtube 링크</a>
+                        </li>
+                    </ul>
+                        {% endif %}
+                    {% endfor %}
                 </div><br><br><br><br>
             </div>
         </div>
