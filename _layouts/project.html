@@ -25,32 +25,39 @@ layout: compress
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <div class="post-list">
+                <div class="post-list" align = "left">
                     {% for post in site.posts %} 
                         {% if post.project == null %}
                     <ul>
                         <h2 style = "color:forestgreen" ><p><h1><b>💸 목차</b></h1></p></h2>
                         <div class="wow fadeInLeft" data-wow-duration="1.5s">
-                        <h3> 대내 프로젝트</h3>    
+                        <div style="float: left;">
+                        <h3 > 대내 프로젝트</h3>
+                        <ul>    
                             <li>가계부 프로그램</li>
                             <li>Alram-Clock</li>
                             <li>Safe</li>
                             <li>GroupChatting Program</li>
                             <li>P2P File Transfer System</li>
-                            <li>Bus Route</li><br><br>
+                            <li>Bus Route</li>
                             <li>Face Swapping</li>
                             <li>Tamagochi</li>
                             <li>Smart Home</li>
                             <li>Parking System</li>
                             <li>Graduation Project</li>
-
+                        </ul>
+                        </div>
+                        <div style="float: left; margin-left: 100px;">
                         <h3>대외 프로젝트</h3>
+                            <ul>
                             <li>제 18회 전국 임베디드 경진대회</li>
-                            <li>국민대학교 자율주행 경진대회</li>
+                            <li>국민대학교 자율주행 경진대회</li></ul></div>
                         </div>
                     </ul>
-                </div><br><br><br><br>
+                </div><div style="clear:both;"></div>
+                <br><br><br><br>
                 <h1><b>대내 프로젝트</b></h1><br>
+                
                 <!----------------------------------------------------------------------------표본--------------------------------------------------------------------------->
                 <div class="post-list">
                     <ul>
