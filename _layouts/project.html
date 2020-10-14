@@ -25,7 +25,31 @@ layout: compress
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <h1><b>대내 프로젝트</b></h1><br><br><br><br>
+                <div class="post-list">
+                    {% for post in site.posts %} 
+                        {% if post.project == null %}
+                    <ul>
+                        <h2 style = "color:forestgreen" ><p><b>💸 목차</b></p></h2>
+                        <div class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <h3> 대내 프로젝트</h3>    
+                            <li>안녕</li>
+                            <li>2</li>
+                            <li>안녕</li>
+                            <li>2</li>
+                            <li>안녕</li>
+                            <li>2</li><br><br>
+
+                        <h3>대외 프로젝트</h3>
+                            <li>안녕</li>
+                            <li>2</li>
+                            <li>안녕</li>
+                            <li>2</li>
+                            <li>안녕</li>
+                            <li>2</li>
+                        </div>
+                    </ul>
+                </div><br><br><br><br>
+                <h1><b>대내 프로젝트</b></h1><br>
                 <!----------------------------------------------------------------------------표본--------------------------------------------------------------------------->
                 <div class="post-list">
                     {% for post in site.posts %} 
