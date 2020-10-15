@@ -15,7 +15,8 @@ comments: false
 
 
 # __📝 이력사항__
-<br><br>
+<br>
+
 #### - __Name__ :  석상우 [Seok Sang Woo]
 <br>
 
@@ -23,6 +24,9 @@ comments: false
 <br>
 
 #### - __Phone__ : 010 - 5696 - 2353
+<br>
+
+#### - __복무__ : 육군 병장 만기 전역  [2015.10 ~ 2017.07]
 <br>
 
 #### - __Address__ : 경기도 광주시 곤지암읍 삼리 
@@ -47,7 +51,12 @@ comments: false
 
 ## 학점 그래프
 
-<img src = "https://user-images.githubusercontent.com/56511253/96183965-ba3a3f80-0f72-11eb-88b9-490a404d1663.png" style = "width:600px; height:300px; float:left; margin-right:30px; margin-left:100px;"> <br>가나다라
+<img src = "https://user-images.githubusercontent.com/56511253/96183965-ba3a3f80-0f72-11eb-88b9-490a404d1663.png" style = "width:600px; height:300px; float:left; margin-right:30px; margin-left:100px;"> <br>
+<p>1학년 2학기를 마치고, 진로가 적성에 맞지 않는다 생각하여 1년간 휴학 후에 군대를 다녀왔습니다. 군대에서 여러 가지를 깨닫고 다시 사회에 나왔을 때, 나를 위해 고생하시는 부모님을 보며 내가 할 수 있는 유일한 일은 누구보다 공부를 열심히 하는 것 뿐이라고 생각했습니다.</p>
+<p>복학 당시 printf문이나 변수의 개념 자체도 몰랐던 저는, 잠 자는 시간 외에는 모두 공부에 할애 할 정도로 누구보다 독하고 악착같이 공부했습니다. 그 당시엔 주변 동기들에게도 “정말 독하다”라는 소리를 많이 들었습니다.
+그 결과 성적이 눈에 띄게 올랐고 기반을 다진 뒤에는 모든 전공 과목에서 최상위권이 되어있었습니다.
+</p>
+<p>또한, 공부를 하면 할수록 개발직에 흥미를 느꼈고 그 결과 개발자의 꿈을 가지게 되었습니다.</p>
 <div style="clear:both;"></div>
 
 <br><br><br><br>
