@@ -129,8 +129,8 @@ comments: false
 </style>
  
 <table class="mytable">
-	<tr><th width = "300">번호</th><th width = "100">이름</th></tr>
-	<tr><td>4</td><td>너구리</td></tr>
+	<tr><th width = "500">번호</th><th width = "500">이름</th></tr>
+	<tr><td>41</td><td>너구리</td></tr>
 	<tr><td>5</td><td>오징어</td></tr>
 	<tr><td>6</td><td>육개장</td></tr>
 </table>
