@@ -9,7 +9,10 @@ comments: false
 <center><font size = "6em" color ="rgb()"><b>
 5천만이 사용할 수 있는 App 개발자가 되기
 </b></font></center>
+
 <br><br><br><br>
+
+
 
 # __📝 이력사항__
 <br><br>
@@ -29,19 +32,16 @@ comments: false
 #### - __Email__ : tjrtkddnaos@naver.com
 <br>
 
-#### - __Git__ : https://github.com/sangwoo24
+#### - __Git__ : [https://github.com/sangwoo24](https://github.com/sangwoo24)
 <br>
 
 ###  - __희망직무__ : <span style ="color : green "> iOS App 개발 </span>
 
-
-
-<br><br><br>
+<br><br><br><br>
 
 # __🎓 학력사항__
 
 <br><br>
-
 | 학교이름(지역) | 전공 | 학점 | 기간 | 비고 |
 |:----------:|:----------:|:----------:|:---------:|:-------:|
 | 광주고등학교(경기) | 자연계열 | x |2011.03 ~ 2014.02|졸업|
@@ -51,7 +51,7 @@ comments: false
 <br><br><br>
 
 ## 🖥 Programming Skill
-<br><br>
+<br>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -100,7 +100,28 @@ comments: false
         </div>
       </div>
     </div>
-</div>
+</div><br><br>
+
+## 🧑🏻‍💻 Programming Class
+#### 남들보다 조금 늦게 프로그래밍을 시작하였고, 임베디드 시스템 공학과 특성상 프로그래밍 과목이 많지 않았지만, SW 개발자로 성장하기 위해 최대한 프로그래밍과 관련된 수업들을 위주로 수강하였습니다.
+
+- ###  <font color = "green">수강 과목</font>
+  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
+  - <b>객체 지향 언어</b> : C++을 통한 객체 지향 프로그래밍 학습 <b>`[학점  A]`</b>
+  - <b>자료구조 및 알고리즘</b> : C언어를 통한 다양한 자료구조 및 알고리즘 학습 <b>`[학점  A+]`</b>
+  - <b>임베디드 프로세서</b> : C언어를 사용하여 8Bit MCU인 ATmega128을 제어 <b>`[학점  A+]`</b>
+  - <b>임베디드 비전 시스템</b> : Python, C++로 영상처리 및 딥러닝 학습 <b>`[학점  A+]`</b>
+  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
+  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
+  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
+   
+
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+
 
 <br><br><br>
 
@@ -115,6 +136,7 @@ comments: false
 <br><br><br>
 
 # __🏖 취미 / 특기__
+<br>
 
 ### __취미__
 #### - ⚽️ : 주 1~2회 지인들과 축구를 합니다. 활동적인 성격덕에 축구를 하면서 원만한 주변관계를 이루고 있습니다.
