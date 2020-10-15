@@ -116,16 +116,29 @@ comments: false
   - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
   - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
    
+<style>  
+.mytable {
+	border-collapse: collapse;
+	border-top: 3px solid black;
+	border-left: 3px solid black;
+}  
+.mytable th, .mytable td {
+	border-bottom: 3px solid black;
+	border-right: 3px solid black;
+}
+</style>
+ 
+<table class="mytable">
+	<tr><th>번호</th><th>이름</th></tr>
+	<tr><td>4</td><td>너구리</td></tr>
+	<tr><td>5</td><td>오징어</td></tr>
+	<tr><td>6</td><td>육개장</td></tr>
+</table>
 
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
 
-<table style ="border:2px solid;">
-	<tr style = "border:2px solid;">
-		<td>섹션1</td>
+<table border="2" width="";>
+	<tr border ="1">
+		<td bordercolor="blue">섹션1</td>
 		<td>섹션2</td>
 	</tr>
 	<tr>
