@@ -107,49 +107,17 @@ comments: false
 #### 남들보다 조금 늦게 프로그래밍을 시작하였고, 임베디드 시스템 공학과 특성상 프로그래밍 과목이 많지 않았지만, SW 개발자로 성장하기 위해 최대한 프로그래밍과 관련된 수업들을 위주로 수강하였습니다.
 
 - ###  <font color = "green">수강 과목</font>
-  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
-  - <b>객체 지향 언어</b> : C++을 통한 객체 지향 프로그래밍 학습 <b>`[학점  A]`</b>
-  - <b>자료구조 및 알고리즘</b> : C언어를 통한 다양한 자료구조 및 알고리즘 학습 <b>`[학점  A+]`</b>
-  - <b>임베디드 프로세서</b> : C언어를 사용하여 8Bit MCU인 ATmega128을 제어 <b>`[학점  A+]`</b>
-  - <b>임베디드 비전 시스템</b> : Python, C++로 영상처리 및 딥러닝 학습 <b>`[학점  A+]`</b>
-  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
-  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
-  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b>
-   
-<style>  
-.mytable {
-	border-collapse: collapse;
-	border-top: 3px solid black;
-	border-left: 3px solid black;
-}  
-.mytable th, .mytable td {
-	border-bottom: 3px solid black;
-	border-right: 3px solid black;
-}
-</style>
- 
-<table class="mytable">
-	<tr><th width = "500">번호</th><th width = "500">이름</th></tr>
-	<tr><td>41</td><td>너구리</td></tr>
-	<tr><td>5</td><td>오징어</td></tr>
-	<tr><td>6</td><td>육개장</td></tr>
-</table>
-
-
-<table border="2" width="";>
-	<tr border ="1">
-		<td bordercolor="blue">섹션1</td>
-		<td>섹션2</td>
-	</tr>
-	<tr>
-		<td>섹션3</td>
-		<td>섹션4</td>
-	</tr>
-	<tr>
-		<td>섹션4</td>
-		<td>섹션5</td>
-	</tr>
-</table>
+  - <b>프로그래밍 언어</b> : 기본적인 C언어 학습 <b>`[학점  A]`</b><br>
+  - <b>객체 지향 언어</b> : C++을 통한 객체 지향 프로그래밍 학습 <b>`[학점  A]`</b><br>
+  - <b>자료구조 및 알고리즘</b> : C언어를 통한 다양한 자료구조 및 알고리즘 학습 <b>`[학점  A+]`</b><br>
+  - <b>임베디드 프로세서</b> : C언어를 사용하여 8Bit MCU인 ATmega128을 제어 <b>`[학점  A+]`</b><br>
+  - <b>임베디드 비전 시스템</b> : Python, C++로 영상처리 및 딥러닝 학습 <b>`[학점  A+]`</b><br>
+  - <b>임베디드 운영체제</b> : Linux상에서 Kernel과 OS에 관한 학습 <b>`[학점  A+]`</b><br>
+  - <b>자바 프로그래밍</b> : Java를 이용한 객체지향언어 학습 <b>`[학점  A+]`</b><br>
+  - <b>프로그래밍 응용</b> : 다양한 언어를 사용하여 주어진 문제를 해결하는 PBL수업 <b>`[학점  A+]`</b><br>
+  - <b>사물 인터넷 실습</b> : C, JSON, Python 등의 언어 사용. Amazon AWS, Edge Server등으로 ESP, Raspberry Controll 학습  <b>`[학점  A]`</b><br>
+  - <b>고급 임베디드 시스템</b> : Linux 상에서 Kernel수준의 Device Driver제작 및 임베디드 시스템 개발 <b>`[학점  A+]`</b>
+  
 
 
 
