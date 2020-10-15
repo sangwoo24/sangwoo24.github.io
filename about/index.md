@@ -39,22 +39,16 @@ comments: false
 <br><br><br><br>
 
 # __🎓 학력사항__
+<br>
 
-<br><br>
-<div style="border:3px solid red">
+<img src = "https://user-images.githubusercontent.com/56511253/96182545-9970ea80-0f70-11eb-9a1e-a11ce740c259.png">
+<br><br><br><br>
 
-| 학교이름(지역) | 전공 | 학점 | 기간 | 비고 |
-|:----------:|:----------:|:----------:|:---------:|:-------:|
-| 광주고등학교(경기) | 자연계열 | x |2011.03 ~ 2014.02|졸업|
-| 한국산업기술대학교(경기) | 전자공학부 임베디드시스템(주)| 전공 : 4.2 / 비전공 : 3.9 | 2014.03 ~ 2021.02|졸업예정|
+<img src = "https://user-images.githubusercontent.com/56511253/96183965-ba3a3f80-0f72-11eb-88b9-490a404d1663.png">
 
-</div>
 
- |Header |Column 1 | Column 2 | Column 3  | 
-|:--- |:---- |:----:| ----:|
-|1. Row| is | is | is  |
-|2. Row| left | nicely | right  |
-|3. Row| aligned | centered | aligned  |  
+
+
 
 <br><br><br>
 
