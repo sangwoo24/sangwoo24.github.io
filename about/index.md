@@ -51,6 +51,7 @@ comments: false
 
 ## 학점 그래프
 
+<br>
 <img src = "https://user-images.githubusercontent.com/56511253/96183965-ba3a3f80-0f72-11eb-88b9-490a404d1663.png" style = "width:600px; height:300px; float:left; margin-right:30px; margin-left:50px;"> <br>
 <p>- 1학년 2학기를 마치고, 진로가 적성에 맞지 않는다 생각하여 1년간 휴학 후에 군대를 다녀왔습니다. 군대에서 여러 가지를 깨닫고 다시 사회에 나왔을 때, 나를 위해 고생하시는 부모님을 보며 내가 할 수 있는 유일한 일은 누구보다 공부를 열심히 하는 것 뿐이라고 생각했습니다.</p>
 <p>- 복학 당시 printf문이나 변수의 개념 자체도 몰랐던 저는, 잠 자는 시간 외에는 모두 공부에 할애 할 정도로 누구보다 독하고 악착같이 공부했습니다. 그 당시엔 주변 동기들에게도 “정말 독하다”라는 소리를 많이 들었습니다.
@@ -63,12 +64,10 @@ comments: false
 
 ## 장학금 수여내역
 
+<br>
 <img src = "https://user-images.githubusercontent.com/56511253/96186143-f7ec9780-0f75-11eb-9918-28e0e4a6251e.png" style = "width:900px; height:200px; float:left; margin-left:50px;">
 <div style="clear:both;"></div>
-
-
-
-<br><br><br>
+<br><br><br><br><br>
 
 ## 🖥 Programming Skill
 <br>
@@ -137,7 +136,7 @@ comments: false
   - <b>사물 인터넷 실습</b> : C, JSON, Python 등의 언어 사용. Amazon AWS, Edge Server등으로 ESP, Raspberry Controll 학습  <b>`[학점  A]`</b><br><br>
   - <b>고급 임베디드 시스템</b> : Linux 상에서 Kernel수준의 Device Driver제작 및 임베디드 시스템 개발 <b>`[학점  A+]`</b>
   
-
+<br><br>
 
 
 <br><br><br>
@@ -150,7 +149,7 @@ comments: false
 
 #### - __정보처리기사__
 
-<br><br><br>
+<br><br><br><br><br>
 
 # __🏖 취미 / 특기__
 <br>
