@@ -7,7 +7,7 @@ comments: false
 ---
 
 <center><font size = "6em" color ="rgb()"><b>
-5천만이 사용할 수 있는 App 개발자가 되기
+🧑🏻‍💻 꾸준한 개발자가 되기
 </b></font></center>
 
 <br><br><br><br>
