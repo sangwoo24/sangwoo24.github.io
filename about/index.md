@@ -46,11 +46,11 @@ comments: false
 
 ## 학점 그래프
 
-<img src = "https://user-images.githubusercontent.com/56511253/96183965-ba3a3f80-0f72-11eb-88b9-490a404d1663.png" style = "width:600px; height:300px; float:left"> <br>가나다라
+<img src = "https://user-images.githubusercontent.com/56511253/96183965-ba3a3f80-0f72-11eb-88b9-490a404d1663.png" style = "width:600px; height:300px; float:left; margin-right:30px;"> <br>가나다라
 <div style="clear:both;"></div>
 
 <br><br><br><br>
-<img src = "https://user-images.githubusercontent.com/56511253/96186143-f7ec9780-0f75-11eb-9918-28e0e4a6251e.png" style = "width:600px; height:150px;">
+<img src = "https://user-images.githubusercontent.com/56511253/96186143-f7ec9780-0f75-11eb-9918-28e0e4a6251e.png" style = "width:900px; height:200px;">
 
 
 
