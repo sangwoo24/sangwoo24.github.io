@@ -50,6 +50,9 @@ comments: false
 <div style="clear:both;"></div>
 
 <br><br><br><br>
+
+## 장학금 수여내역
+
 <img src = "https://user-images.githubusercontent.com/56511253/96186143-f7ec9780-0f75-11eb-9918-28e0e4a6251e.png" style = "width:900px; height:200px; float:left; margin-left:100px">
 <div style="clear:both;"></div>
 
