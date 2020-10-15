@@ -41,12 +41,12 @@ comments: false
 # __🎓 학력사항__
 <br>
 
-<img src = "https://user-images.githubusercontent.com/56511253/96182545-9970ea80-0f70-11eb-9a1e-a11ce740c259.png">
+<img src = "https://user-images.githubusercontent.com/56511253/96184343-56644680-0f73-11eb-83d3-ee30d7789f2a.png">
 <br><br><br><br>
 
 <img src = "https://user-images.githubusercontent.com/56511253/96183965-ba3a3f80-0f72-11eb-88b9-490a404d1663.png">
-
-
+<br><br><br><br>
+<img src = "https://user-images.githubusercontent.com/56511253/96186143-f7ec9780-0f75-11eb-9918-28e0e4a6251e.png">
 
 
 
