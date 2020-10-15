@@ -122,6 +122,22 @@ comments: false
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
+<table>
+	<tr>
+		<td>섹션1</td>
+		<td>섹션2</td>
+	</tr>
+	<tr>
+		<td>섹션3</td>
+		<td>섹션4</td>
+	</tr>
+	<tr>
+		<td>섹션4</td>
+		<td>섹션5</td>
+	</tr>
+</table>
+
+
 
 <br><br><br>
 
