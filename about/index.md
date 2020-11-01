@@ -38,7 +38,7 @@ comments: false
 #### - __Git__ : [https://github.com/sangwoo24](https://github.com/sangwoo24)
 <br>
 
-###  - __희망직무__ : <span style ="color : green "> iOS App 개발 </span>
+###  - __희망직무__ : <span style ="color : green "> iOS/Android App 개발 </span>
 
 <br><br><br><br>
 
